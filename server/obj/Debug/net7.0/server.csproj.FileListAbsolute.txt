@@ -1,0 +1,14 @@
+C:\Users\donic\Desktop\cci\projet\client\server\bin\Debug\net7.0\server.exe
+C:\Users\donic\Desktop\cci\projet\client\server\bin\Debug\net7.0\server.deps.json
+C:\Users\donic\Desktop\cci\projet\client\server\bin\Debug\net7.0\server.runtimeconfig.json
+C:\Users\donic\Desktop\cci\projet\client\server\bin\Debug\net7.0\server.dll
+C:\Users\donic\Desktop\cci\projet\client\server\bin\Debug\net7.0\server.pdb
+C:\Users\donic\Desktop\cci\projet\client\server\obj\Debug\net7.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donic\Desktop\cci\projet\client\server\obj\Debug\net7.0\server.AssemblyInfoInputs.cache
+C:\Users\donic\Desktop\cci\projet\client\server\obj\Debug\net7.0\server.AssemblyInfo.cs
+C:\Users\donic\Desktop\cci\projet\client\server\obj\Debug\net7.0\server.csproj.CoreCompileInputs.cache
+C:\Users\donic\Desktop\cci\projet\client\server\obj\Debug\net7.0\server.dll
+C:\Users\donic\Desktop\cci\projet\client\server\obj\Debug\net7.0\refint\server.dll
+C:\Users\donic\Desktop\cci\projet\client\server\obj\Debug\net7.0\server.pdb
+C:\Users\donic\Desktop\cci\projet\client\server\obj\Debug\net7.0\server.genruntimeconfig.cache
+C:\Users\donic\Desktop\cci\projet\client\server\obj\Debug\net7.0\ref\server.dll
