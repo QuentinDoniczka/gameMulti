@@ -21,6 +21,10 @@ namespace client
             IsMouseVisible = true;
             _inputManager = new InputManager();
             _player = new Player(new Vector2(100, 100));
+
+            _graphics.PreferredBackBufferWidth = 1800;
+            _graphics.PreferredBackBufferHeight = 900;
+            _graphics.ApplyChanges();
         }
 
         protected override void Initialize()
